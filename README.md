@@ -1,5 +1,7 @@
 # Host network configuration and routing — BRACKEN Engineering Guide
 
+> BRACKEN host network configuration and routing for interfaces, addresses, routes, VLANs, tunnels, NAT, and forwarding.
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN Network Engine
